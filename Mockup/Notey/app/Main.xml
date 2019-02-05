@@ -1,0 +1,88 @@
+﻿<project version="2.9" name="Notey" ID="0E834861-83EE-4C24-8AAD-99024CB4A15F">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Start" ID="0B4E8C0B-42F1-4C05-9689-436BBD411F59" expanded="True" code="28CiitJpbq" thumbCode="28CiitJpbq" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+      </images>
+      <page name="Sign Up" ID="F3A898DE-6A4E-496A-9563-5FE659AA5A78" expanded="True" code="WkAo3flRam" thumbCode="WkAo3flRam" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+        </images>
+      </page>
+      <page name="Log In" ID="DF9E6EEB-8D55-4E8E-B6F4-8C2CAA640DDE" expanded="True" code="whtPmSkTF7" thumbCode="whtPmSkTF7" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="91852B86E51F760894554368302F9800.svg"/>
+        </images>
+      </page>
+    </page>
+    <page name="Noteys" ID="1D64C98F-B9EE-4ECE-8FBD-4F0B98ECB694" expanded="True" code="ODQrcpCRg6" thumbCode="ODQrcpCRg6" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B64512564078BE31571E4B8E32EDD2AD.svg"/>
+        <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+        <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+      </images>
+      <page name="Create" ID="D31D9508-0EFF-49F3-AA28-266162586116" expanded="True" code="LBeQcFEgDf" thumbCode="LBeQcFEgDf" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+          <image key="A3376A9F8A06A7CB4545919F122602F5.svg"/>
+          <image key="B64512564078BE31571E4B8E32EDD2AD.svg"/>
+          <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+        </images>
+      </page>
+      <page name="Notey" ID="E84A8A3D-BE65-4321-97C6-B2125C02B145" expanded="True" code="PuGKgK79ti" thumbCode="PuGKgK79ti" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+          <image key="B64512564078BE31571E4B8E32EDD2AD.svg"/>
+          <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+          <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+          <image key="6E6D6863698839BD8858A6C5F26217E8.svg"/>
+        </images>
+        <page name="Edit" ID="2C05D8F8-B407-4360-AFCB-1222094EC89B" expanded="True" code="jBSoIblNAE" thumbCode="jBSoIblNAE" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+          <images>
+            <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+            <image key="A3376A9F8A06A7CB4545919F122602F5.svg"/>
+            <image key="B64512564078BE31571E4B8E32EDD2AD.svg"/>
+            <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+            <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+          </images>
+        </page>
+      </page>
+    </page>
+    <page name="Not implemented" ID="C78A32E3-AF4F-4999-893A-5B65F60CF412" expanded="True" code="FT24Kkx8mY" thumbCode="bewDanZTRz" status="psWhite" isfolder="False" isshownode="True"/>
+  </pages>
+  <trash>
+    <page name="Page" ID="B9F4D736-427B-4BF7-8DB8-B60DF2BB9D95" expanded="False" code="FiLlq1mIXq" thumbCode="zeBnpg9mir" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Home" ID="FD7515BA-0EF0-4CCE-84EE-87B4FC4F1EAA" expanded="True" code="nkQmTQC4Hj" thumbCode="tdmcr3x56p" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Start" ID="86E533CB-EFA2-4FE8-BFDD-C8DF5F5AEFEF" expanded="False" code="U1vKFfjgRB" thumbCode="z9ihXxGl1U" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="1CC1A4E0-5DB7-45D0-81D6-B67EA6468AC9" expanded="False" code="F2BcNxzl12" thumbCode="OHtLMHL7sM" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Menu" ID="F78E1C3C-A6C8-4B58-880F-07BC5AAA92B0" expanded="False" code="LJmKqEouLm" thumbCode="b2CgolmdoV" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Menu" ID="F550B6EB-8320-43F1-A539-E845DBC279E3" expanded="False" code="IYYZ4UmlLP" thumbCode="QquvhmX6bK" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="A3376A9F8A06A7CB4545919F122602F5.svg"/>
+    <image key="51ED992D000055983D8B8802C65E2870.svg"/>
+    <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+    <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+    <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+    <image key="6E6D6863698839BD8858A6C5F26217E8.svg"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+    <image key="B64512564078BE31571E4B8E32EDD2AD.svg"/>
+    <image key="D461B89CFC537DBAD724FAD78224FD94.svg"/>
+    <image key="91852B86E51F760894554368302F9800.svg"/>
+    <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+  </images>
+</project>

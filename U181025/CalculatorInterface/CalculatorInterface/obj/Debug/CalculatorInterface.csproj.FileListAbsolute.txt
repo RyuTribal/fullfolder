@@ -1,0 +1,10 @@
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\bin\Debug\CalculatorInterface.exe.config
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\bin\Debug\CalculatorInterface.exe
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\bin\Debug\CalculatorInterface.pdb
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.csprojAssemblyReference.cache
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.Form1.resources
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.Properties.Resources.resources
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.csproj.GenerateResource.cache
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.csproj.CoreCompileInputs.cache
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.exe
+C:\T41819\U181025\CalculatorInterface\CalculatorInterface\obj\Debug\CalculatorInterface.pdb

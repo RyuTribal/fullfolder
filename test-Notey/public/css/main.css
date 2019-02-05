@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.slide-in{
+    animation: slide-in 0.5s ease forwards;
+}
+
+@keyframes slide-in{
+    from{
+        transform: translateX(100%);
+        visibility: visible;
+    }
+
+    to{
+        transform: translateX(0%); 
+        visibility: hidden;
+    }
+}
+#startWrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+    flex-direction: column;
+    position: absolute;
+
+}
+
+#login-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 100%;
+    flex-direction: column;
+    position: absolute;
+}
+
+#startWrapper{
+    background-color: #5282C8;
+
+}
+
+#login-container{
+    background-color: black ;
+}
+

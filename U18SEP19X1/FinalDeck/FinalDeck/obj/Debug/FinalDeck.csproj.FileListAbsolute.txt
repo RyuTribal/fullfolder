@@ -1,0 +1,7 @@
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\bin\Debug\FinalDeck.exe.config
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\bin\Debug\FinalDeck.exe
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\bin\Debug\FinalDeck.pdb
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\obj\Debug\FinalDeck.csprojAssemblyReference.cache
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\obj\Debug\FinalDeck.csproj.CoreCompileInputs.cache
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\obj\Debug\FinalDeck.exe
+C:\T41819\U18SEP19X1\FinalDeck\FinalDeck\obj\Debug\FinalDeck.pdb

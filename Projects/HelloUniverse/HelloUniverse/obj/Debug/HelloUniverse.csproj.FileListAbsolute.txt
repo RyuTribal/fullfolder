@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\bin\Debug\HelloUniverse.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\bin\Debug\HelloUniverse.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\bin\Debug\HelloUniverse.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\HelloUniverse\HelloUniverse\obj\Debug\HelloUniverse.pdb

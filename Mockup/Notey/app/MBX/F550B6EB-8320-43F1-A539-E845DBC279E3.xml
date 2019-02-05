@@ -1,0 +1,81 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="61DEBBA4-2177-4C8C-9F8B-DA3BE5E61C29" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="B03EFDC6-D7F9-E711-B6D2-787B8ABCE684" controlTypeID="ModalScreen" x="0" y="0" w="375" h="667" zOrder="0">
+      <color>4288256409</color>
+    </control>
+    <control controlID="D45CCDCD-D7F9-E711-B6D2-787B8ABCE684" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>0</color>
+    </control>
+    <control controlID="441E16D6-D7F9-E711-B6D2-787B8ABCE684" controlTypeID="Icon" x="313" y="30" w="38" h="38" zOrder="2">
+      <color>4294967295</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0B4E8C0B-42F1-4C05-9689-436BBD411F59" linkType="ltPageLink" isApplyIncludePage="False" title="Start">
+          <area shape="0" alt="" ID="{8D8D35C2-8889-4EB0-A023-A2CEA123505E}" coords="(0,0,38,38)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62468</iconCode>
+      </icon>
+      <URL>D461B89CFC537DBAD724FAD78224FD94.svg</URL>
+    </control>
+    <control controlID="6C68C171-D8F9-E711-B6D2-787B8ABCE684" controlTypeID="Label" x="165" y="629" w="35" h="18" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>Notey</text>
+      <textColor>4289638062</textColor>
+      <textSize>13</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="53CD8CAA-45EE-4C1B-9113-FB4A0C447EB6" controlTypeID="Label" x="108" y="127" w="159" h="38" zOrder="4">
+      <color>16777215</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>About+Notey</text>
+      <textColor>4294967295</textColor>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BAAFA39D-29FD-464A-BDC8-069A20690390" controlTypeID="Label" x="141" y="210" w="82" h="38" zOrder="5">
+      <color>16777215</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DF9E6EEB-8D55-4E8E-B6F4-8C2CAA640DDE" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{3CBB1B68-522B-4021-AF3E-42417403C2DF}" coords="(0,0,82,38)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+in</text>
+      <textColor>4294967295</textColor>
+      <textSize>28</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="15C4E676-9D46-43C1-AE9E-C1FBF37B1B3E" controlTypeID="Label" x="136" y="300" w="93" h="38" zOrder="6">
+      <color>16777215</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F3A898DE-6A4E-496A-9563-5FE659AA5A78" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+Up">
+          <area shape="0" alt="" ID="{E16DB93F-FE6F-4007-B44C-973B69C88672}" coords="(0,0,93,38)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+up</text>
+      <textColor>4294967295</textColor>
+      <textSize>28</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

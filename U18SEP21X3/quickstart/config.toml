@@ -1,0 +1,3 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Who Am I?"theme = "ananke"

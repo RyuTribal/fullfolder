@@ -1,0 +1,126 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C6746037-4E3E-4A7D-BEE6-38C264450609" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="11">
+    <control controlID="FD8E0AB9-14DE-4759-955E-C66C5926AAFF" controlTypeID="Icon" x="19" y="30" w="24" h="24" zOrder="0">
+      <color>4288256409</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="0B4E8C0B-42F1-4C05-9689-436BBD411F59" linkType="ltPageLink" isApplyIncludePage="False" title="Start">
+          <area shape="0" alt="" ID="{DF8CCEC6-50B9-4A88-B9DC-D3E078417507}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62418</iconCode>
+      </icon>
+      <URL>91852B86E51F760894554368302F9800.svg</URL>
+    </control>
+    <control controlID="F35B94F0-31DF-43C3-A6D7-9AED22DDE1AE" controlTypeID="Label" x="25" y="96" w="102" h="38" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Sign+Up</text>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6D044CAA-199C-4A9B-8868-057228C67EB7" controlTypeID="Line" x="30" y="257" w="314" h="1" zOrder="2">
+      <color>4293190884</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(157,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(314,0)</endPoint>
+    </control>
+    <control controlID="0B9773D0-A674-4FB6-9381-5C8E9890DAFA" controlTypeID="Line" x="30" y="206" w="314" h="1" zOrder="3">
+      <color>4293190884</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(157,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(314,0)</endPoint>
+    </control>
+    <control controlID="372D9CE4-7E79-464B-9EA9-733B058790B4" controlTypeID="Line" x="30" y="312" w="315" h="1" zOrder="4">
+      <color>4293190884</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(158,0)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(315,0)</endPoint>
+    </control>
+    <control controlID="A79EDB50-CD0E-4980-B814-B38C5175E533" controlTypeID="TextInput" x="30" y="213" w="314" h="39" zOrder="5">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Email</placeHolder>
+    </control>
+    <control controlID="1876801D-1D17-4231-9B3F-E6022B935BF4" controlTypeID="TextInput" x="30" y="157" w="314" h="39" zOrder="6">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>User+name</placeHolder>
+    </control>
+    <control controlID="825ECADA-9CAD-421C-804F-A7BF4F56B622" controlTypeID="TextInput" x="30" y="268" w="314" h="39" zOrder="7">
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <placeHolder>Password</placeHolder>
+    </control>
+    <control controlID="839EFF7F-83C0-45C9-BAE8-1D105D67C92C" controlTypeID="Label" x="52" y="416" w="253" h="15" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>By+joining+Notey%2C+you+agree+to+General+Terms+of+Use</text>
+      <textColor>4284900966</textColor>
+      <textSize>11</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A364BF8D-E48F-45F3-A2F5-D0EAE992B5FA" controlTypeID="Button" x="34" y="361" w="310" h="45" zOrder="9">
+      <color>4283597512</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DF9E6EEB-8D55-4E8E-B6F4-8C2CAA640DDE" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{71406B1F-5D88-4AC7-B2FB-5279CA20DED5}" coords="(0,0,310,45)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>Sign+Up</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6C201740-D5D4-4284-92C8-7026EB9F572A" controlTypeID="Label" x="175" y="323" w="173" h="16" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="DF9E6EEB-8D55-4E8E-B6F4-8C2CAA640DDE" linkType="ltPageLink" isApplyIncludePage="False" title="Log+In">
+          <area shape="0" alt="" ID="{91FD46F5-BF36-4683-B4C1-2A52E99B2C48}" coords="(0,0,173,16)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Normal" weight="400" isBold="False" isItalic="False"/>
+      <text>Already+have+an+account%3F+Log+in!</text>
+      <textSize>12</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

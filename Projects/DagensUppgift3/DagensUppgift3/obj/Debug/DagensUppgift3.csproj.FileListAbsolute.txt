@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\bin\Debug\DagensUppgift3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\bin\Debug\DagensUppgift3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\bin\Debug\DagensUppgift3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\obj\Debug\DagensUppgift3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\obj\Debug\DagensUppgift3.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\obj\Debug\DagensUppgift3.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\DagensUppgift3\DagensUppgift3\obj\Debug\DagensUppgift3.csprojAssemblyReference.cache

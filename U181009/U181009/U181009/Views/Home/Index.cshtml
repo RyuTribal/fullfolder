@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Home";
+}
+
+<style>
+    .btn a{text-decoration: none; color: white;}
+</style>
+
+    <div class="text-center"> 
+        @ViewBag.Greeting CJ!
+        <p>We need your consensual agreement for appearing on photos and videos.</p>
+        <div class="btn btn-success">@Html.ActionLink("Sign here","Approval")</div>
+    </div>
+

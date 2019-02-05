@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\bin\Debug\ConsoleApplication.exe
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\bin\Debug\ConsoleApplication.pdb
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\obj\x86\Debug\DagensUppgift3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\obj\x86\Debug\DagensUppgift3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Admin\Desktop\Projects\DagensUppgift3\obj\x86\Debug\ConsoleApplication.pdb

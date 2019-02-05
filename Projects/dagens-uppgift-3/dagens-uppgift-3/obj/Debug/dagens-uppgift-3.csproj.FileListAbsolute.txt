@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\dagens-uppgift-3\dagens-uppgift-3\obj\Debug\dagens-uppgift-3.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\dagens-uppgift-3\dagens-uppgift-3\obj\Debug\dagens-uppgift-3.csproj.CoreCompileInputs.cache
